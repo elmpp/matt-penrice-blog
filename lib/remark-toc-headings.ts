@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { VFile } from 'vfile'
 import { Parent } from 'unist'
 import { visit } from 'unist-util-visit'
